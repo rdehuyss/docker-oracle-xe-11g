@@ -1,9 +1,8 @@
 docker-oracle-xe-11g
 ============================
 
-Oracle Express Edition 11g Release 2 on Ubuntu 14.04.1 LTS
-
-This **Dockerfile** is a [trusted build](https://registry.hub.docker.com/u/wnameless/oracle-xe-11g/) of [Docker Registry](https://registry.hub.docker.com/).
+Dockerfile based on wnameless/docker-oracle-xe-11g and updated for Ubuntu 14.04.2 LTS
+Oracle Express Edition 11g Release 2 on Ubuntu 14.04.2 LTS
 
 ### Installation
 ```

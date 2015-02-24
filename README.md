@@ -6,12 +6,12 @@ Oracle Express Edition 11g Release 2 on Ubuntu 14.04.2 LTS
 
 ### Installation
 ```
-docker pull rdehuyss/oracle-xe-11g
+docker pull rdehuyss/docker-oracle-xe-11g
 ```
 
 Run with 22 and 1521 ports opened:
 ```
-docker run -d -p 49160:22 -p 49161:1521 rdehuyss/oracle-xe-11g
+docker run -d -p 49160:22 -p 49161:1521 rdehuyss/docker-oracle-xe-11g
 ```
 
 Connect database with following setting:
